@@ -311,7 +311,10 @@ padding: 1px 0px 1px 0px;
         padding-bottom: 25px;
         float: inherit;
     }
-    #main_slider .carousel-control-prev,
+    #main_slider .carousel-control-prev{
+        width: 40px;
+        height: 40px;
+    }
     #main_slider .carousel-control-next {
         width: 40px;
         height: 40px;
@@ -487,3 +490,17 @@ padding: 1px 0px 1px 0px;
 
  
 
+/* Responsive Dropdown Toggle */
+/* @media (max-width: 768px) {
+	.main-menu {
+	   flex-direction: column;
+	}
+	.submenu {
+	   position: static;
+	   box-shadow: none;
+	}
+	.submenu li {
+	   width: auto;
+	}
+ } */
+ 

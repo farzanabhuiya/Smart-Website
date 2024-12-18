@@ -1145,7 +1145,6 @@ nav.main-menu {
 	padding: 15px 0px;
 }
 
-.sub-full {}
 
 .simple-down {
 	padding: 15px;
@@ -2494,7 +2493,7 @@ text-align: center;
 	
 	.section-subtitle {
 		font-size: 1rem;
-		color: #777;
+		color: #272626;
 		margin-top: -15px;
 	}
 	
@@ -2513,4 +2512,74 @@ text-align: center;
 		margin: 0;
 		font-size: 20px;
 	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/* Main Menu Styling */
+/* .main-menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+ }
+ 
+ .main-menu li {
+	position: relative;
+ }
+ 
+ .main-menu a {
+	text-decoration: none;
+	padding: 10px 15px;
+	display: block;
+	color: #333;
+	transition: 0.3s;
+ }
+ 
+ .main-menu a:hover {
+	background-color: #008080;
+	color: #fff;
+ }
+ 
+  Submenu Styling 
+ .submenu {
+	display: none;
+	position: absolute;
+	background-color: #fff;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+	z-index: 1000;
+ }
+ 
+ .submenu li {
+	display: block;
+	width: 200px;
+ }
+ 
+ .main-menu li:hover > .submenu {
+	display: block;
+ }  */
+ 
+ 
    
