@@ -227,7 +227,7 @@ padding: 1px 0px 1px 0px;
         padding: 10px 41px 10px 41px;
     }
  
-    .title h2 {font-size: 47px;}
+    .title h2 {font-size: 47px; }
      .title span {font-size: 21px;}
    
      .service .service-box h3 {font-size: 17px;}
@@ -367,11 +367,12 @@ padding: 1px 0px 1px 0px;
         padding: 5px 24px 5px 24px;
         margin-right: 10px;
     }
-    .title h2 {font-size: 34px; line-height: 47px;}
+    .title h2 {font-size: 30px; line-height: 47px;}
     .title span {font-size: 21px;}
     .choose_bg .white_bg .for_box {margin-bottom: 30px;}
     .read-more {margin-top: 10px;}
     .product .title h2 {font-size: 40px; margin-top: -50px;}
+    .product .title h2:after { margin-left: 140px;}
     .product .title span {font-size: 21px;}
    .Clients_bg_white .title h3 {font-size: 31px; line-height: 37px;}
    .yellow_bg .yellow-box h3 {font-size: 20px;}
@@ -503,4 +504,120 @@ padding: 1px 0px 1px 0px;
 	   width: auto;
 	}
  } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* Responsive Styles for iPhone 14 Pro Max (430px - 932px) */
+/* 
+@media only screen and (min-width: 430px) and (max-width: 932px) {
+
+    Header Section 
+    .header {
+      padding: 20px;
+      text-align: center;
+    }
+  
+    .logo {
+      text-align: center;
+      padding: 15px 0;
+    }
+  
+     Navigation Menu 
+    .main-menu ul {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .main-menu ul li {
+      width: 100%;
+      text-align: center;
+    }
+  
+    .main-menu ul li a {
+      padding: 15px 20px;
+      display: block;
+    }
+  
+     Banner Section 
+    .banner-main .carousel-caption {
+      background: transparent;
+      padding: 10px;
+      text-align: center;
+    }
+  
+    .banner-main .carousel-caption h1 {
+      font-size: 24px;
+      line-height: 30px;
+    }
+  
+    .banner-main .carousel-caption p {
+      font-size: 16px;
+      margin: 10px 0;
+    }
+  
+    .carousel-item img {
+      width: 100%;
+      height: auto;
+    }
+  
+    Footer Section 
+    .footer {
+      padding: 30px 20px;
+      text-align: center;
+    }
+  
+    ul.sociel {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+    }
+  
+    ul.sociel li a {
+      width: 40px;
+      height: 40px;
+      line-height: 40px;
+      font-size: 18px;
+      text-align: center;
+    }
+  
+    .contact h3 {
+      font-size: 22px;
+      margin-bottom: 15px;
+    }
+  
+    .copyright p {
+      font-size: 14px;
+      line-height: 20px;
+      text-align: center;
+    }
+  
+    Responsive Cards 
+    .card {
+      width: 90%;
+      max-width: 400px;
+      margin: 20px auto;
+    }
+  } */
+  
  
